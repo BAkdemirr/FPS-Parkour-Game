@@ -8,6 +8,8 @@ Uçan robotlar bir kere vurursa ölürsün.
 
 Grafik ayarlamaları ve menü panelleri hazırdır.
 
+Modellerin tamamı blender'da yapıldı.
+
 ![parkour1](https://user-images.githubusercontent.com/64818115/188931140-523f913b-99fd-47fa-bcc7-9b2cd8ccc860.png)
 
 ![parkour2](https://user-images.githubusercontent.com/64818115/188931208-19a3f4de-c3d6-4e9b-91c1-8b9ed120524d.png)
